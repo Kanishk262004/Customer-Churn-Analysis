@@ -62,7 +62,8 @@ The dataset contains anonymized customer records, including:
 ##  Author
 **Kanishk Kirar**  
 B.Tech Petroleum Engineering | IIT Dhanbad  
-📬 [LinkedIn](https://linkedin.com/in/karan-negi) 
-📬 [LinkedIn]([https://linkedin.com/in/karan-negi](https://www.linkedin.com/in/karan-negi-744b54251/)) 
+📬 [LinkedIn](https://www.linkedin.com/in/kanishk-kirar-768548287) 
+📬 [LinkedIn]([https://www.linkedin.com/in/kanishk-kirar-768548287](https://www.linkedin.com/in/
+kanishk-kirar-768548287)) 
 
 ---
